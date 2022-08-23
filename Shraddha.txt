@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-
-it's a demmo
-start with new project.
-=======
-Practice material
->>>>>>> 989d746a33d6e9030b960d064223f8fc4e9ca1ae
